@@ -1,0 +1,4 @@
+j = 0 = BAT
+	ST
+	Haitu
+	đen
